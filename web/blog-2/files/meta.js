@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"58d4963bfbb97ed7f3558a44e5543bfe-0.html":"Unity3d 教學\nUnity互動式遊戲程式設計入門 #1 Unity基礎操作觀念","archive-january-2020.html":"Archives for January 2020"};
+	var websiteMeta = {"58d4963bfbb97ed7f3558a44e5543bfe-0.html":"Unity3d 教學\nUnity互動式遊戲程式設計入門 #1 Unity基礎操作觀念\n\n","archive-january-2020.html":"Archives for January 2020"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
